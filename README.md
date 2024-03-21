@@ -1,4 +1,5 @@
 - 👋 ¡Hola! Soy Juan Morettin.
+  
 👀 Acerca de mí:
 
 🎓 Soy licenciado en Sociología de la Universidad de Buenos Aires, con especialización en Ambiente.
