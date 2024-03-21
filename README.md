@@ -3,14 +3,19 @@
 👀 Acerca de mí:
 
 🎓 Soy licenciado en Sociología de la Universidad de Buenos Aires, con especialización en Ambiente.
+
 📊 Desde el año 2021 trabajo en Investigación en el Instituto de Investigaciones Gino Germani, donde realicé mi primer proyecto como Becario del Centro Interuniversitario Nacional (CIN).
+
 💼 Actualmente estoy en búsqueda laboral activa.
+
 🌎 Sé Ingles e Italiano. Soy ciudadano Argentino e Italiano.
 
 
 📚 Trabajo con bases de datos y análisis estadístico desde el año 2022. 
-📈 Reportes y visualizaciones con Excel - Power BI
-💻 Procesamiento de datos con Python y R
+
+📈 Reportes y visualizaciones con Excel - Power BI - Stata 
+
+💻 Procesamiento y Análisis de datos con Python y R
 
 🛢 MySQL Microsoft SQL Server - Postgre SQL
 
