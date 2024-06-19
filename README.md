@@ -8,18 +8,17 @@
 
 💼 Actualmente estoy en búsqueda laboral activa.
 
-🌎 Sé Ingles e Italiano. Soy ciudadano Argentino e Italiano.
+🌎 Ademá sde Español, hablo Inglés e Italiano. Soy ciudadano Argentino e Italiano.
 
 
 📚 Trabajo con bases de datos y análisis estadístico desde el año 2022. 
 
 📈 Reportes y visualizaciones con Excel - Power BI - Stata 
 
-💻 Procesamiento y Análisis de datos con Python y R
+💻 Procesamiento y Análisis de datos con Python 
 
 🛢 MySQL Microsoft SQL Server - Postgre SQL
 
 ⚙️ Git GitHub
 
-- 🌱 Estoy interesado en trabajar con la gestión de recursos y/o el análisis de tendencias de cambio global hacia nuevos modelos de sustentabilidad.
-- ⚡ Por eso estoy formándome con nuevas herramientas para la integración de grandes volúmenes de datos (Big Data), y la gestión territorial. (Facultad Latinoamericana de Ciencias Sociales)
+- 🌱 Estoy interesado en trabajar con la gestión de recursos y/o el análisis de tendencias de cambio global hacia nuevos modelos de sustentabilidad
