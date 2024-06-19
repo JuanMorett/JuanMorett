@@ -8,7 +8,7 @@
 
 💼 Actualmente estoy en búsqueda laboral activa.
 
-🌎 Ademá sde Español, hablo Inglés e Italiano. Soy ciudadano Argentino e Italiano.
+🌎 Además de Español, hablo Inglés e Italiano. Soy ciudadano Argentino e Italiano.
 
 
 📚 Trabajo con bases de datos y análisis estadístico desde el año 2022. 
