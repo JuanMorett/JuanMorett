@@ -6,7 +6,6 @@
 
 📊 Desde el año 2021 trabajo en Investigación en el Instituto de Investigaciones Gino Germani, donde realicé mi primer proyecto como Becario del Centro Interuniversitario Nacional (CIN).
 
-💼 Actualmente estoy en búsqueda laboral activa.
 
 🌎 Además de Español, hablo Inglés e Italiano. Soy ciudadano Argentino e Italiano.
 
